@@ -1,0 +1,17 @@
+1- Debes cambiar la configuración del archivo "conex/conex.php" por las de tu servidor.
+
+2- Crea la base de datos en MYSQL con el nombre "test1" luego importa la base de 
+   datos que se encuentra en "db/test1.sql".
+
+3- Para acceder como administrador puedes usar el siguiente ID: 0021
+   Debes seleccionar "Administrador" en el combo, cliente esta seleccionado
+   por defecto
+
+
+NOTA:
+  1- La autenticación la he manejado por ID  ya que es único por usuario.
+  2- Los usuarios creados como administradores no aparecerán en el listado.
+  3- Puedes escribir "Oscar" en el buscador para tener varios resultados como
+     ejemplo.
+  4- Países, estados y ciudades las he creado en el código no estan en la db
+     ya que he puesto pocos ejemplos.
